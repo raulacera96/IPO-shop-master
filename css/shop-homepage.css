@@ -5,7 +5,8 @@
  */
 
 body {
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 70px; 
+    background-color: #303f9f;/* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
 .slide-image {
@@ -37,7 +38,7 @@ body {
 .ratings {
     padding-right: 10px;
     padding-left: 10px;
-    color: #d17581;
+    color: black;
 }
 
 .thumbnail {
@@ -67,7 +68,7 @@ blockquote{
     margin-top: -50px;
     padding-top: -100px;
     border-radius: 17px;
-    background-color: #4ADFCC;
+    background-color: #FFEB3B;
     margin-top: 25px;
     color:white;
     width: 325px;
@@ -80,7 +81,7 @@ blockquote{
     margin-top: -10px;
     font-weight: bold;
     font-size:100px;
-    color:white;
+    color:black;
     font-family: "Helvetica", Sans, Serif;
     
 }
